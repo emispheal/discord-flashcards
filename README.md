@@ -1,7 +1,7 @@
 # Discord Flashcards
 Discord flash cards bot attempt. 
 
-Aim:
+Aims:
  * Emulate anki but in discord
  * Minimal hosting cost overheads
  * Learn stuff and git gud
